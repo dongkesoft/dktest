@@ -13,7 +13,7 @@
 		18EDE5D31EA6010500366ED8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EDE5D11EA6010500366ED8 /* Main.storyboard */; };
 		18EDE5D51EA6010500366ED8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EDE5D41EA6010500366ED8 /* Assets.xcassets */; };
 		18EDE5D81EA6010500366ED8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EDE5D61EA6010500366ED8 /* LaunchScreen.storyboard */; };
-		18EDE5E01EA602EE00366ED8 /* manifest.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18EDE5DF1EA602EE00366ED8 /* manifest.plist */; };
+		18EDE5E41EA6037F00366ED8 /* manifest.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18EDE5E31EA6037F00366ED8 /* manifest.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		18EDE5D41EA6010500366ED8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18EDE5D71EA6010500366ED8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18EDE5D91EA6010500366ED8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		18EDE5DF1EA602EE00366ED8 /* manifest.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = manifest.plist; path = ../../../Downloads/manifest.plist; sourceTree = "<group>"; };
+		18EDE5E31EA6037F00366ED8 /* manifest.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = manifest.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,7 +44,7 @@
 		18EDE5BC1EA6010500366ED8 = {
 			isa = PBXGroup;
 			children = (
-				18EDE5DF1EA602EE00366ED8 /* manifest.plist */,
+				18EDE5E31EA6037F00366ED8 /* manifest.plist */,
 				18EDE5C71EA6010500366ED8 /* dktest */,
 				18EDE5C61EA6010500366ED8 /* Products */,
 			);
@@ -143,7 +143,7 @@
 				18EDE5D81EA6010500366ED8 /* LaunchScreen.storyboard in Resources */,
 				18EDE5D51EA6010500366ED8 /* Assets.xcassets in Resources */,
 				18EDE5D31EA6010500366ED8 /* Main.storyboard in Resources */,
-				18EDE5E01EA602EE00366ED8 /* manifest.plist in Resources */,
+				18EDE5E41EA6037F00366ED8 /* manifest.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
